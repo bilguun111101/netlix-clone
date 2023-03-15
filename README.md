@@ -39,6 +39,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 <h3 align="left">Used tools:</h3>
 <p align="left">
-<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" width="40" height="40" /></a> <a alt="amplhttps://reactjs.org/"target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="amplify" width="40" height="40"/></a>
-<a alt="amplhttps://reactjs.org/"target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="amplify" width="40" height="40"/></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/prisma-logo-3805665B69-seeklogo.com.png" width="40" height="40" /></a> <a alt="https://tailwindcss.com/brand" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="amplify" width="40" height="40"/></a>
+<a alt="https://nextjs.org/" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" alt="amplify" width="40" height="40"/></a>
+<a alt="https://www.mongodb.com/brand-resources" rel="noreferrer"><img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" alt="amplify" width="40" height="40"/></a>
+</p>
+<a alt="https://next-auth.js.org/" rel="noreferrer"><img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="amplify" width="40" height="40"/></a>
 </p>
